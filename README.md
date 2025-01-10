@@ -9,7 +9,6 @@ This project predicts the likelihood of heart disease based on user-provided med
 * Machine Learning: Trained a classification model using scikit-learn.
 * Data Analysis and Visualization: Used pandas, matplotlib, and seaborn.
 * Web Framework: Flask for backend development and integration.
-* Deployment: Compatible with Heroku and AWS EC2 for hosting and public accessibility.
 ## Usage:
 ### 1. Install the dependencies:
 * pip install -r requirements.txt
