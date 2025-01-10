@@ -1,0 +1,10 @@
+Flask==2.2.2
+numpy==1.24.2
+pandas==1.5.3
+scikit-learn==1.2.1
+matplotlib==3.6.3
+seaborn==0.12.2
+boto3==1.26.75
+sagemaker==2.125.0
+gunicorn==20.1.0
+jinja2==3.1.2
